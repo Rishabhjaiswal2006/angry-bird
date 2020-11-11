@@ -1,7 +1,8 @@
-class Box extends BaseClass {
-  constructor(x, y, width, height){
-    super(x,y,width,height);
-    this.image = loadImage("sprites/wood1.png");
-  }
+class Box extends Baseclass{
 
-};
+    constructor(x,y){
+    super(x,y,70,70);
+    this.image=loadImage("sprites/wood1.png");
+    }
+        
+}
