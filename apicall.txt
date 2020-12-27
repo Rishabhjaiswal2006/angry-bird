@@ -1,0 +1,9 @@
+1) api call
+1) mytime = api call (link)
+2) mytimeJson = mytime is converted to json format
+3) dt = its only taking the date time parameter
+4) hour = extracting the time from dt
+5) if condition(check the hour in if condition
+6) if u are able to compare the hour, then only u store the image in backi
+7) and then u load image in back
+8) if u are able to load the image in back, then you get a background
